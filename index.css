@@ -1,0 +1,31 @@
+#content{
+    min-height: 600px;
+}
+.banner-image
+{
+	padding-bottom: 50px; 
+	text-align: center; 
+	color: #f8f8f8; 
+	background: url(intro-bg_1.jpg) no-repeat center;
+	background-size:cover;
+}
+.inner-banner-image
+{
+	padding-top: 12%; 
+	width:80%; 
+	margin:auto;
+}
+.banner_content
+{ 
+	margin:auto;
+	position: relative; 
+	padding-top: 6%; 
+	padding-bottom: 6%;  
+	margin-top: 12%:
+	margin-bottom: 12%;
+	background-color: rgba(0, 0, 0, 0.7); 
+	max-width: 660px;
+}
+.banner-img{
+	background: url(intro-bg_1.jpg) no-repeat center;
+}
